@@ -12,3 +12,6 @@ SQL + Excel project analyzing ~550,000 rows of real Brazilian e-commerce data (O
 - Olist's delivery estimates were heavily padded early on, then became far more accurate over time
 
 Built using MySQL, Excel/Power Query, and Power BI. (Used Claude AI as a learning aid while writing SQL and debugging.)
+
+
+## Full Power BI file available on request (not included due to file size).
