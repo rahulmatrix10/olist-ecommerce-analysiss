@@ -15,3 +15,5 @@ Built using MySQL, Excel/Power Query, and Power BI. (Used Claude AI as a learnin
 
 
 ## Full Power BI file available on request (not included due to file size).
+Note: The complete .pbix Power BI dashboard file exceeds GitHub's 25 MB upload limit and is omitted from the repository. 
+A preview of the dashboard is provided below.
